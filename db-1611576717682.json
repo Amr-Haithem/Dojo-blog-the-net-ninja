@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "The Blog gladiator",
+      "body": "I did a blog in blogger and it didn't work",
+      "auther": "amor",
+      "id": 1
+    },
+    {
+      "title": "The good osama",
+      "body": "Me and Osama played a mathch u know ",
+      "auther": "amr again hehe",
+      "id": 2
+    },
+    {
+      "title": "meow meow woof",
+      "body": "this time i assert I will be the best in web development",
+      "auther": "amor",
+      "id": 3
+    }
+  ]
+}
